@@ -1,0 +1,1 @@
+Mappatura: Processo di esecuzione che genera indirizzi logici tradotti dalla MMU nei corrispondenti indirizzi fisici.

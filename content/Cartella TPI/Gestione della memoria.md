@@ -1,0 +1,4 @@
+[[Binding]]
+[[Mappatura]]
+[[Multiprogrammazione]]
+[[Paginazione]]
