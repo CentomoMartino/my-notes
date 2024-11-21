@@ -13,5 +13,4 @@ Scambia frame attraverso il supporto di rete tra punti terminali.
 Supporti: mezzi di trasmissioni
 [[Connessione Ethernet]]
 
-Topologie:
 [[Topologia]]
