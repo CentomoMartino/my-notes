@@ -1,2 +1,2 @@
 
-[[my-notes/content/Cartella TPI/Indice|Indice]]
+[[my-notes/content/Cartella-TPI/Indice|Indice]]

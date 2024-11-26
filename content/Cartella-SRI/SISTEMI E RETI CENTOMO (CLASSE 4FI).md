@@ -1,2 +1,2 @@
 
-Conoscenze base: [[my-notes/content/Cartella SRI/Indice|Indice]]
+Conoscenze base: [[my-notes/content/Cartella-SRI/Indice|Indice]]
