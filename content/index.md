@@ -1,2 +1,2 @@
-1. [[my-notes/content/Cartella-TPI/Indice|TPI]]
-2. [[my-notes/content/Cartella-SRI/Indice|SRI]]
+1. [[TECNOLOGIA E PROGETTAZIONE CENTOMO (CLASSE 4FI)|TPI]]
+2. [[SISTEMI E RETI CENTOMO (CLASSE 4FI)|SRI]]
