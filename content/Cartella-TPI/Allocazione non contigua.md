@@ -1,4 +1,4 @@
-2 Opzioni: 
+3 Opzioni: 
 
 [[Segmentazione]]
 [[Paginazione]]

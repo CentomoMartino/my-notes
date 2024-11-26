@@ -4,7 +4,7 @@ Questa tecnica ibrida di gestione della memoria prende il meglio delle proposte 
 Paginazione:
 
 		Identificazione dei frame liberi attraverso bit di validità.
-		Scelta del frame liberp non necessariamente contiguo, senza frammentazione.
+		Scelta del frame libero non necessariamente contiguo, senza frammentazione.
 
 Segmentazione:
 

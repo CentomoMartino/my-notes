@@ -2,7 +2,7 @@ Obbiettivi:
 * Mantenere in memoria solo le parti necessarie
 * Gestire ogni volta solo piccole porzioni di memoria
 * Non sprecare spazio evitando frammmentazioni
-* Poter usare porziani di memoria non contigue per lo stesso programma
+* Poter usare porzioni di memoria non contigue per lo stesso programma
 * Non dare l'incombenza della suddivisione del programma al programmatore
 
 La memoria fisica viene suddivisa in blocchi di dimensione fissa (Pagine fisiche)
