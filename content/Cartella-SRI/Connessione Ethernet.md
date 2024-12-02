@@ -12,3 +12,11 @@ Il router:
 		Ri-incapsula il frame in una PDU di livello 2.
 		Invia al prossimo dispositivo il Frame.
 
+La comunicazione in una rete LAN Ehternet segue il seguente protocollo: [[Protocollo CSMA-CD]]
+
+
+
+La dimensione minima del frame Ethernet è di 64 byte, fino ad un massimo di 1518.
+Include l'inidizzo MAC di destinazione tramite campo FCS (Frame Check Sequence).
+I frame di lunghezze maggiri vengono chiamati "Jumbo" o "Baby Gigant".
+Campi del frame: [[Campi Frame Ethernet]]
