@@ -1,2 +1,2 @@
 [[Data Link]] 
-[[my-notes/content/Cartella-SRI/Indice|Indice]]
+[[Cartella-SRI/Indice|Indice]]
