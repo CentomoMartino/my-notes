@@ -1,0 +1,1 @@
+La codifica di Shannon è un algoritmo che codifica una serie di dati, raddoppiando la frequenza di un segnale quantizzato, si ottiene una codifica più corretta.
