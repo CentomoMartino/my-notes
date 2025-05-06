@@ -14,3 +14,5 @@ La traduzione degli indirizzi logici in fisici  avviene attraverso la [[Tabella 
 	- Si semplifica il linking di procedure compilate separatamente.
 	- Ogni segmento può avere un diverso tipo di protezione.
 
+<big>Segmentation fault:</big> 
+Errore che si verifica quando un'istruzione in un segmento fa riferimento ad una licazione che si riferisce ad una locazione diversa dalla propria.

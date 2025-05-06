@@ -10,4 +10,5 @@ COME SUCCEDE LA COLLISIONE?
 
 Il segnale emesso quando avviene una collisione si chiama Jam (Marmellata).
 
+
 Se il canale è libero manda un RTS (Request To Send) ed aspetta un CTS (Clear To Send). Una volta mandato il CTS tutte le macchine perdono la possibilità di comunicare per lasciare libero il canale. Se il canale è occupato, imposta un contatore casuale che allo scadere verifica lo stato del canale.
