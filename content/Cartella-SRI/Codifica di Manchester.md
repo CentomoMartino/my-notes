@@ -1,1 +1,0 @@
-La codifica di Manchester è un tipo di codifica dei dati binari secondo cui si prende in considerazione un bit 1 quando la tensione sale e un bit 0 quando scende, scnadito da un intervallo di tempo predefinito dal clock.

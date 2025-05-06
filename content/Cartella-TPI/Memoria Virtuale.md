@@ -1,1 +1,0 @@
-[[Paginazione]]               |||                  [[Segmentazione]]             |||           [[Mista]]
